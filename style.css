@@ -1,0 +1,19 @@
+body {
+  background-color: #a2d2ff;
+}
+img {
+  height: 150px;
+  width: 200px;
+  border-radius: 100%;
+}
+img:hover {
+  height: 160px;
+  width: 210px;
+}
+hr {
+  border-color: whitesmoke;
+  border-width: 8px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 30%;
+}
